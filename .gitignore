@@ -1,0 +1,77 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+bin/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Environments (Ambientes Virtuais)
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# pipenv
+# De acordo com pypa/pipenv#598, recomenda-se incluir o Pipfile.lock no controle de versão.
+# .python-version
+
+# poetry
+# De acordo com a documentação do Poetry, o poetry.lock deve ser incluído no controle de versão.
+# poetry.lock
+
+# celery
+celerybeat-schedule
+celerybeat.pid
+
+# SageMath
+*.sage.py
+
+# Environments (Variáveis de ambiente e credenciais)
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Spyder / PyCharm / VS Code (IDEs)
+.spyderproject
+.spyproject
+.idea/
+.vscode/
+
+# Mypy / Pytest
+.mypy_cache/
+.pytest_cache/
+.htmlcov/
+.tox/
+.coverage
+.coverage.*

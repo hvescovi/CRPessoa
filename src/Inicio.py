@@ -5,6 +5,6 @@ import streamlit as st
 st.set_page_config(page_title="Classe persistente")
 
 # título da página (H1)
-st.title("Classe persistente")
+st.title("Classe persistente SQLAlchemy/SQLite")
 # texto mostrado na página
 st.write("Cadastro de pessoas")
